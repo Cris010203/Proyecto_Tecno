@@ -1,0 +1,24 @@
+c:\users\pc24lab4\documents\visual studio 2015\Projects\GA1 - Cristopher Ramirez\GA1 - Cristopher Ramirez\bin\Debug\GA1 - Cristopher Ramirez.exe.config
+c:\users\pc24lab4\documents\visual studio 2015\Projects\GA1 - Cristopher Ramirez\GA1 - Cristopher Ramirez\bin\Debug\GA1 - Cristopher Ramirez.exe
+c:\users\pc24lab4\documents\visual studio 2015\Projects\GA1 - Cristopher Ramirez\GA1 - Cristopher Ramirez\bin\Debug\GA1 - Cristopher Ramirez.pdb
+c:\users\pc24lab4\documents\visual studio 2015\Projects\GA1 - Cristopher Ramirez\GA1 - Cristopher Ramirez\bin\Debug\GA1 - Cristopher Ramirez.xml
+c:\users\pc24lab4\documents\visual studio 2015\Projects\GA1 - Cristopher Ramirez\GA1 - Cristopher Ramirez\obj\Debug\GA1 - Cristopher Ramirez.vbprojResolveAssemblyReference.cache
+c:\users\pc24lab4\documents\visual studio 2015\Projects\GA1 - Cristopher Ramirez\GA1 - Cristopher Ramirez\obj\Debug\GA1___Cristopher_Ramirez.Form1.resources
+c:\users\pc24lab4\documents\visual studio 2015\Projects\GA1 - Cristopher Ramirez\GA1 - Cristopher Ramirez\obj\Debug\GA1___Cristopher_Ramirez.Form2.resources
+c:\users\pc24lab4\documents\visual studio 2015\Projects\GA1 - Cristopher Ramirez\GA1 - Cristopher Ramirez\obj\Debug\GA1___Cristopher_Ramirez.Resources.resources
+c:\users\pc24lab4\documents\visual studio 2015\Projects\GA1 - Cristopher Ramirez\GA1 - Cristopher Ramirez\obj\Debug\GA1 - Cristopher Ramirez.vbproj.GenerateResource.Cache
+c:\users\pc24lab4\documents\visual studio 2015\Projects\GA1 - Cristopher Ramirez\GA1 - Cristopher Ramirez\obj\Debug\GA1 - Cristopher Ramirez.exe
+c:\users\pc24lab4\documents\visual studio 2015\Projects\GA1 - Cristopher Ramirez\GA1 - Cristopher Ramirez\obj\Debug\GA1 - Cristopher Ramirez.xml
+c:\users\pc24lab4\documents\visual studio 2015\Projects\GA1 - Cristopher Ramirez\GA1 - Cristopher Ramirez\obj\Debug\GA1 - Cristopher Ramirez.pdb
+C:\Users\Dell\OneDrive\Documentos\Visual Studio 2015\Projects\GA1 - Cristopher Ramirez\GA1 - Cristopher Ramirez\bin\Debug\GA1 - Cristopher Ramirez.exe.config
+C:\Users\Dell\OneDrive\Documentos\Visual Studio 2015\Projects\GA1 - Cristopher Ramirez\GA1 - Cristopher Ramirez\obj\Debug\GA1 - Cristopher Ramirez.exe
+C:\Users\Dell\OneDrive\Documentos\Visual Studio 2015\Projects\GA1 - Cristopher Ramirez\GA1 - Cristopher Ramirez\obj\Debug\GA1 - Cristopher Ramirez.xml
+C:\Users\Dell\OneDrive\Documentos\Visual Studio 2015\Projects\GA1 - Cristopher Ramirez\GA1 - Cristopher Ramirez\obj\Debug\GA1 - Cristopher Ramirez.pdb
+C:\Users\Dell\OneDrive\Documentos\Visual Studio 2015\Projects\GA1 - Cristopher Ramirez\GA1 - Cristopher Ramirez\bin\Debug\GA1 - Cristopher Ramirez.exe
+C:\Users\Dell\OneDrive\Documentos\Visual Studio 2015\Projects\GA1 - Cristopher Ramirez\GA1 - Cristopher Ramirez\bin\Debug\GA1 - Cristopher Ramirez.pdb
+C:\Users\Dell\OneDrive\Documentos\Visual Studio 2015\Projects\GA1 - Cristopher Ramirez\GA1 - Cristopher Ramirez\bin\Debug\GA1 - Cristopher Ramirez.xml
+C:\Users\Dell\OneDrive\Documentos\Visual Studio 2015\Projects\GA1 - Cristopher Ramirez\GA1 - Cristopher Ramirez\obj\Debug\GA1 - Cristopher Ramirez.vbprojResolveAssemblyReference.cache
+C:\Users\Dell\OneDrive\Documentos\Visual Studio 2015\Projects\GA1 - Cristopher Ramirez\GA1 - Cristopher Ramirez\obj\Debug\GA1___Cristopher_Ramirez.Form1.resources
+C:\Users\Dell\OneDrive\Documentos\Visual Studio 2015\Projects\GA1 - Cristopher Ramirez\GA1 - Cristopher Ramirez\obj\Debug\GA1___Cristopher_Ramirez.Form2.resources
+C:\Users\Dell\OneDrive\Documentos\Visual Studio 2015\Projects\GA1 - Cristopher Ramirez\GA1 - Cristopher Ramirez\obj\Debug\GA1___Cristopher_Ramirez.Resources.resources
+C:\Users\Dell\OneDrive\Documentos\Visual Studio 2015\Projects\GA1 - Cristopher Ramirez\GA1 - Cristopher Ramirez\obj\Debug\GA1 - Cristopher Ramirez.vbproj.GenerateResource.Cache
